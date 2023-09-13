@@ -1,5 +1,11 @@
 # @dzakirz/test
 
+## 1.0.1
+
+### Patch Changes
+
+- b486a3e: Update Usage .md
+
 ## 1.0.0
 
 ### Major Changes
