@@ -1,5 +1,11 @@
 # @dzakirz/test
 
+## 1.0.0
+
+### Major Changes
+
+- ad277cc: Final Version
+
 ## 0.0.3
 
 ### Patch Changes
