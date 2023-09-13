@@ -11,11 +11,11 @@ pnpm add @dzakirz/test
 ## Usage
 
 ```typescript
-import { test as t } from "@dzakirz/test"
+const { test } = require("@dzakirz/test")
 
-const test = t()
+const t = test()
 
-console.log(test)
+console.log(t)
 ```
 
 ## Output
